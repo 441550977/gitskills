@@ -12,6 +12,6 @@
 
 查看分支合并情况git log --graph
 
-zhu
+主分支上加
 
 
