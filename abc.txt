@@ -11,5 +11,4 @@
 删除分支：git branch -d <name>
 
 查看分支合并情况git log --graph
-
-指定本地dev分支与远程origin/dev分支的链接git branch --set-upstream dev origin/dev
+haos
